@@ -44,11 +44,11 @@ export const config = {
       openUrl: "https://wangxinleo.cn"
     }, 
     {
-      name: "老婆1", 
-      id: "",
-      useTemplateId: "",
-      province: "",
-      city: "",
+      name: "..", 
+      id: "ok7Dp6TCEWb6ocxKa6OG3p_wPOo8",
+      useTemplateId: "xVqOXiARk5nlySSWyY7eYCN_zr_IORH5MhiXxj4KI-4",
+      province: "河南",
+      city: "新乡",
       openUrl: "https://wangxinleo.cn"
     }, 
     {
